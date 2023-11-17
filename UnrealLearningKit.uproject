@@ -12,6 +12,30 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
+		},
+		{
+			"Name": "WFC3DDemo",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/423e3d794bb14a30aab2d1784fc74905"
+		},
+		{
+			"Name": "WaveFunctionCollapse",
+			"Enabled": true
+		},
+		{
+			"Name": "DungeonGeneratorPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
 		}
 	]
 }
